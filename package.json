@@ -4,6 +4,8 @@
   "description": "Development Case of the Reactjs library and Webpack module bundler usage.",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
