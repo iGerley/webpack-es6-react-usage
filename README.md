@@ -9,6 +9,7 @@ npm install
 Install with yarn:
 ```
 yarn install
+```
 
 ### Running
 ```
