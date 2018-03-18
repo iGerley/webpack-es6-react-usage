@@ -25,12 +25,6 @@
     "url": "https://github.com/iGerley/webpack-es6-react-usage/issues"
   },
   "homepage": "https://github.com/iGerley/webpack-es6-react-usage#readme",
-  "babel": {
-    "presets": [
-      "env",
-      "react"
-    ]
-  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
