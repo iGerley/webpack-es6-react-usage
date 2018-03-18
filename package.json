@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/iGerley/webpack-es6-react-usage.git"
   },
-  "keywords": ["webpack", "ecmascript2015", "es6", "react"],
+  "keywords": [
+    "webpack",
+    "ecmascript2015",
+    "es6",
+    "react"
+  ],
   "author": "Gerley Adriano <gerleyadrianomiranda@gmail.com>",
   "private": true,
   "license": "MIT",
@@ -22,18 +27,20 @@
   "homepage": "https://github.com/iGerley/webpack-es6-react-usage#readme",
   "babel": {
     "presets": [
-      "es2015", "react"
+      "env",
+      "react"
     ]
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-polyfill": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1"
-  }
+  },
+  "dependencies": {}
 }
