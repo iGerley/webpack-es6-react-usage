@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-const api_key = 'openweathermap_generated_key';
+// const apiKey = 'openweathermap_generated_key';
+const apikey = '8c103625b50b5da734fb3632577ff8f5';
 
 export default class WeatherApp extends Component {
   state = {
