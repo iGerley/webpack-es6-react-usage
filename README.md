@@ -1,4 +1,4 @@
-# webpack-es6-react-usage
+# Webpack ECMASCRIPT2015+ React Usage
 :coffee: :briefcase: Development Case of the Reactjs library and Webpack module bundler usage (just a "skeleton").
 
 ### Installation
