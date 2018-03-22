@@ -15,3 +15,9 @@ yarn install
 ```
 yarn run build
 ```
+### Just one detail
+:warning:Don't forget to change the value constant value "apiKey" in "src/components/WeatherApp.js".
+```javascript
+const apiKey = 'openweathermap_generated_key';
+```
+Thanks and be happy!
