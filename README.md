@@ -12,9 +12,14 @@ yarn install
 ```
 
 ### Running
-```
+```console
 yarn run build
 ```
+### Runing on the Development Server
+```console
+yarn run dev-server
+```
+
 ### Just one detail
 :warning:Don't forget to change the value constant value "apiKey" in "src/components/WeatherApp.js".
 ```javascript
