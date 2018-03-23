@@ -3,11 +3,11 @@
 
 ### Installation
 Install with npm:
-```
+```console
 npm install
 ```
 Install with yarn:
-```
+```console
 yarn install
 ```
 
