@@ -10,7 +10,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Runtime data
-package.lock
+package-lock.json
 yarn.lock
 
 # Yarn Integrity file
