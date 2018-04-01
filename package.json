@@ -40,5 +40,8 @@
   "dependencies": {},
   "optionalDependencies": {
     "fsevents": "*"
+  },
+  "devEngines": {
+    "node": "8.x || 9.x"
   }
 }
