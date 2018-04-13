@@ -14,9 +14,6 @@ export default class WeatherApp extends Component {
   }
 
   grabWeather = (city) => {
-    if(apiKey == 'openweathermap_generated_key') {
-      console.log('Please enter a API Key Valid!');
-    }
     fetch(`http://api.openweathermap.org/data/2.5/weather?APPID=${api_key}&q=${city}`)
       .then(response => response.json())
       .then(json => {
